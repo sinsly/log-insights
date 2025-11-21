@@ -1,2 +1,2 @@
-# log-insights
-Roblox exploit scripting logging methods.
+# exploit-tools
+Dump / collection of tools and usage for roblox exploiting.
