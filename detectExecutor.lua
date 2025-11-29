@@ -1,4 +1,4 @@
--- detect executor / banlist ones you don't support example
+-- detect executor / blacklist ones you don't support example
 
 local blacklist = {
     ["Xeno"] = true,
